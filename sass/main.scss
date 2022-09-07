@@ -350,7 +350,7 @@ body {
 
 .offers {
 	position: relative;
-	@include heroImages('../img/heroOffersS.jpg');
+	@include heroImages('../img/oferss.jpg');
 	overflow: hidden;
 
 	.section-heading {
@@ -644,7 +644,7 @@ transform: scale(.95);		}
 	}
 
 	.offers {
-		background-image: $blue-gradient, url(../img/heroOffersL.jpg);
+		background-image: $blue-gradient, url(../img/ofersl.jpg);
 
 		&__option {
 			&-img {
